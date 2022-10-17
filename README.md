@@ -1,5 +1,5 @@
-# Sample
-MyFirst
+//# Sample
+//MyFirst
 #include<iostream>
 
 #include <string>
