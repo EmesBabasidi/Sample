@@ -170,53 +170,20 @@ int main()
 
      return 0;
 
-} ;
+} 
 
-            }
+            
+     
+            
+            
+            
+              
+            
 
-        }  
-
-            cout<< "Your current balance is : #" << balance << endl ;
-
-              break;
-
-     case 2: 
-
-            cout << "Enter amount to deposit" << endl ;
-
-            cin >> amount ;
-
-            balance += amount ;
-
-            cout << "You've successfully deposited #" << amount << endl ;
-
-            cout<< "Your current balance is : #" << balance << endl ;
-
-            break;
-
-      case 3: 
-
-              cout << "Not available😣" << endl ;
-
-              break;
-
-     case 4: 
-
-              cout << "Not available😣" << endl ;
-
-              break;
-
-            }
-
-        }
-
-      while(opt != 5);
-
-    } 
 
    
 
-    void exit (){
+
 
            
 
